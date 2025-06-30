@@ -1,0 +1,6 @@
+flask==3.0.0
+torch==2.1.1
+numpy==1.26.2
+easyocr==1.7.1
+opencv-python==4.8.1.78
+deep-translator==1.11.4
